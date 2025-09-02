@@ -106,9 +106,11 @@ Separately, any moderately successful product is often targeted for purchase by 
 Down to ~15 daily visitors 3 days after launch. No new signups, people just inspect the tool in Guest mode.
 # Review
 ## Conclusion
-- Despite tool being much more simpler than V1, launch metrics were almost the same as 2 years ago. ~250 visitors with pretty much no retention.
+- Despite tool being much more simpler than V1, launch metrics were almost the same as 1.5 years ago. ~250 visitors with pretty much no retention.
 - I will try to plug in organic tool promotion under successful nade videos on Reddit / Youtube as it will require minimal effort. But for now we can consider that this idea was not validated and there is no point in perusing it further.
 ## Reflections
 - I wanted to follow advice on focusing on a very specific niche where I have a lot of experience. Also after my rounds of general market research, I felt that it may be worth trying to make a quick V2 version, simplifying it a lot and introducing a social components for easier organic growth.
 - Revenue was not the main point for me as I wanted to make a useful tool with decent usage. Still, I need to do revenue estimations at the very beginning, particularly for Ad monetisation.
+- I need to talk directly to people pre-building. 3-5 people who really need this solution should be must.
+- I underestimate the effort badly. It's much more fun building from 0 to 80%. Last 20% take much longer. Then there is a very big effort related to the launch activities.
 
